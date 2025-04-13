@@ -1,3 +1,3 @@
 # funday
 today is sunday git
-this is a git toturial 
+this is a git toturial (button)
